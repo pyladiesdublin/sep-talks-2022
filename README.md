@@ -18,3 +18,14 @@ Python game developer on paid hours. PyLady and Ultimate frisbee enthusiast on n
 
 ### About Chiara Cotroneo
 I am a Data Scientist working in London as a consultant in the financial industry. Previous to this, I was a PhD at University College Dublin in biostatistics. Enthusiastic pythonista since 2010.
+
+# Partners
+We would like to thank the following:
+
+* Host: [Microsoft Ireland](https://www.microsoft.com/en-ie/aboutireland)
+
+Community Partners:
+
+* [Coding Grace](https://codinggrace.com): Streamyard for our virtual events
+* [PSF](https://www.python.org/psf/): Meetup fees
+* [PyLadies](https://pyladies.com/)
