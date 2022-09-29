@@ -29,3 +29,7 @@ Community Partners:
 * [Coding Grace](https://codinggrace.com): Streamyard for our virtual events
 * [PSF](https://www.python.org/psf/): Meetup fees
 * [PyLadies](https://pyladies.com/)
+
+---
+
+🗓 If you want to find latest Irish and Northern Irish tech and diversity in tech events, check out [DiversityInTech.fyi](https://diversityintech.fyi/). Feel free to share your events and announcements, you can email me or submit a PR.
